@@ -20,6 +20,12 @@ class RoleSeeder extends Seeder
                 'name' => 'Admin'
             ], [
                 'id' => 2,
+                'name' => 'Candidate'
+            ], [
+                'id' => 3,
+                'name' => 'Employer'
+            ], [
+                'id' => 4,
                 'name' => 'User'
             ]
         ]);
